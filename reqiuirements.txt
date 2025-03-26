@@ -1,0 +1,11 @@
+
+opencv-python
+numpy
+mediapipe
+scipy
+torch
+arabic-reshaper
+python-bidi
+flask
+pillow
+googletrans

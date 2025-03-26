@@ -1,0 +1,11 @@
+python3 -m venv venv --system-site-packages
+
+source venv/bin/activate
+pip install requests picamera2 googletrans edge-tts  pydub
+
+
+sudo apt-get install qt5-default
+sudo apt-get install qtcreator
+sudo apt install -y qtwayland5 libqt5gui5 libqt5widgets5 libqt5core5a libqt5dbus5 libxcb-xinerama0
+sudo apt install python3-pyaudio
+pip install cvzone
